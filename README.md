@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @michaelsuwito
 - 🎓 I’m a software engineering student @ Univerity of Canterbury
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning using github
 - 📫 How to reach me Instagram: michaelwhilliams
 
 <!---
